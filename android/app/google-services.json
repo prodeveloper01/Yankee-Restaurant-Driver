@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "812088308884",
+    "firebase_url": "https://arsalan-food-default-rtdb.firebaseio.com",
+    "project_id": "arsalan-food",
+    "storage_bucket": "arsalan-food.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812088308884:android:d103e4535c0a2c07797081",
+        "android_client_info": {
+          "package_name": "com.aas.yankkehotdogwing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "812088308884-efp81285j69aepftv4oqsftvb1qkgcv5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC69qBhMmE7Wu63uSd08uE3-4RsbPpJ9p0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "812088308884-efp81285j69aepftv4oqsftvb1qkgcv5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812088308884:android:ede2246328b341a8797081",
+        "android_client_info": {
+          "package_name": "com.aas.yankkehotdogwingdelivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "812088308884-efp81285j69aepftv4oqsftvb1qkgcv5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC69qBhMmE7Wu63uSd08uE3-4RsbPpJ9p0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "812088308884-efp81285j69aepftv4oqsftvb1qkgcv5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812088308884:android:ab32e3dee503ff89797081",
+        "android_client_info": {
+          "package_name": "com.u6amtech.restaurant_delivery_boy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "812088308884-efp81285j69aepftv4oqsftvb1qkgcv5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC69qBhMmE7Wu63uSd08uE3-4RsbPpJ9p0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "812088308884-efp81285j69aepftv4oqsftvb1qkgcv5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
