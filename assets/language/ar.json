@@ -30,7 +30,7 @@
   "order_id": "رقم الطلب:",
   "email_address": "عنوان البريد الالكترونى",
   "view_details": "عرض التفاصيل",
-  "demo_gmail": "demo@gmail.com",
+  "demo_gmail": "Enter Your Email",
   "direction": "اتجاه",
   "swip_to_deliver_order": "مرر لبدء التسليم",
   "swip_to_confirm_order": "انتقد لتأكيد التسليم",

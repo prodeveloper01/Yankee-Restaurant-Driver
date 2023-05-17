@@ -114,8 +114,9 @@ class OrderWidget extends StatelessWidget {
               Expanded(
                   child: CustomButton(
                       btnTxt: getTranslated('direction', context),
-                      onTap: () {
-                        Geolocator.getCurrentPosition(desiredAccuracy: LocationAccuracy.high).then((position) {
+                      onTap: () async{
+                        await Geolocator.requestPermission();
+                        await Geolocator.getCurrentPosition(desiredAccuracy: LocationAccuracy.high).then((position) {
                           MapUtils.openMap(
                               double.parse(orderModel.deliveryAddress.latitude) ?? 23.8103,
                               double.parse(orderModel.deliveryAddress.longitude) ?? 90.4125,

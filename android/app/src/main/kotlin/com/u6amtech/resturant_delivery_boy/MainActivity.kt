@@ -1,4 +1,4 @@
-package com.aas.yankkehotdogwingdelivery
+package com.aas.yankedriver
 
 import io.flutter.embedding.android.FlutterActivity
 
